@@ -3,8 +3,8 @@
  - Initial Scene: scene-1
 
 # Variables
- - Resources: 100
- - Engagement: 100
- - Output: 100
- - Total: 100
+ - yourself-authentic-strongintegrity
+ - bringoutthebest-engage-healthywork
+ - bringoutthebest-engage-constructive
+ - rolemodel-decisions-competition
 
