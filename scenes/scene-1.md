@@ -1,13 +1,13 @@
 # Config
- - Title: A conflict in your team
+ - Title: Yesterday ended in tears
  - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
 
 # Description
 
-Description goes here...
+Over a longer period of time, your employee, Peter, has demonstrated unfavourable behaviour (lecturing, talking down to team members, etc.). You recently took over the management of this team, but Peter has had a reputation for unfavourable behaviour for years. However, there are no remarks in his employee file. Yesterday, one of your team members went home crying. You were out of office all day yesterday, and therefore only heard about what happened from other team members who experienced the incedent. How do you handle this situation? 
 
 # Choice
-Text for the first available choice goes here..
+You ask your HR Partner to talk to Peter about how his unfavourable behaviour is affecting the whole team.
 
 # Variables
  - Resources: -1
@@ -16,13 +16,13 @@ Text for the first available choice goes here..
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Feedback for selecting the first choice goes here..
+Your HR Partner is probably be willing to help, since Peter's behaviour is affecting the whole team. But as direct manager you should have a private talk with Peter.
 
 # Outcome
-Outcome by selecting the first choice goes here..
+X
 
 # Choice
-Second choice text...
+You involve HR and start working on Peter's dismissal. Peter's behaviour has been unfavourable for a long period of time and it is affecting the mood in your team. So this has got to stop, rather sooner than later.  
 
 # Variables
  - Resources: -1
@@ -31,15 +31,13 @@ Second choice text...
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Feedback for choosing second choice
-Notice that it can be multiple lines
-
+Suggesting Peter's dismissal might be a hasty decision before you've spoken to him.  
 
 # Outcome
-Outcome from choosing the second option
+X
 
 # Choice
-Third choice text
+You contact HR and let them facilitate a session with the whole team, including Peter, to discuss how the team can solve the problem collectively.
 
 # Variables
  - Resources: -3
@@ -48,14 +46,13 @@ Third choice text
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Third choice feedback
+Although Peter's behaviour is affecting the whole team, there is no need to involve the whole team at this point of time. You should start by speaking privately to Peter. 
 
 # Outcome
-Third choice outcome
-
+X
 
 # Choice
-Fourth choice text
+You take a 1:1 talk with Peter to see if he is willing to work out an action plan together with you. You inform HR about the matter, in case you need their involvement at a later stage. 
 
 # Variables
  - Resources: +0
@@ -64,8 +61,8 @@ Fourth choice text
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Fourth option feedback
+Talking to Peter about his behaviour is the right first step to handle this situation. Work out an action plan for Peter to help him act more appropriately. If Peter doesn't change his behaviour, involving the union and HR will be the next step.
 
 # Outcome
-Fourth option outcome
+X
 
