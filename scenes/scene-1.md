@@ -1,7 +1,7 @@
 # Config
  - Title: Yesterday ended in tears
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496058/stock-photo-closeup-portrait-senior-mature-arrogant-bold-self-important-uppity-stuck-up-man-with-napoleon-185162960.jpg
-
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521627786/shutterstock_606979973_1.jpg
+ 
 # Description
 
 Over a longer period of time, your employee, Peter, has demonstrated unfavourable behaviour (lecturing, talking down to team members, etc.). You recently took over the management of this team, but Peter has had a reputation for unfavourable behaviour for years. However, there are no remarks in his employee file. Yesterday, one of your team members went home crying. You were out of office all day yesterday, and therefore only heard about what happened from other team members who experienced the incedent. How do you handle this situation? 
