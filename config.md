@@ -1,8 +1,8 @@
 # Config
  - Title: Dilemma
  - Initial Scene: scene-1
- - Response Url: http://localhost:1719/observation/self/dilemma
- - Original Response Url: https://api.triggerz.com/observation/self/dilemma
+ - Test Response Url: http://localhost:1719/observation/self/dilemma
+ - Response Url: https://api.triggerz.com/observation/self/dilemma
  
  
 # Variables
