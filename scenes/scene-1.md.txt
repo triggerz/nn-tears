@@ -1,5 +1,5 @@
 # Config
- - Title: Yesterday ended in tears
+ - Title: Handling an employee with unfavourable behaviour
  - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521627786/shutterstock_606979973_1.jpg
  
 # Description
